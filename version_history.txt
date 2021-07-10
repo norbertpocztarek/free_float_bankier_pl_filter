@@ -1,0 +1,5 @@
+0.0.1
+Added:
+- getting website code
+- searching for "Free float" text - it's give me number of position
+- printing value of Free float
