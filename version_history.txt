@@ -1,4 +1,17 @@
-0.0.1
+v.0.0.2
+Added
+- filtering companies info: short name, long name, http address
+- creating array companies_data_array which will collect filtered data
+
+Modified
+
+Deleted
+
+TODO
+
+INFO
+###########################################################
+v.0.0.1
 Added:
 - getting website code
 - searching for "Free float" text - it's give me number of position
