@@ -1,15 +1,24 @@
-v.0.0.2
+v.0.0.3
 Added
-- filtering companies info: short name, long name, http address
-- creating array companies_data_array which will collect filtered data
+- filling company_names_list with data: short name, long name, http address
+- filling companies_data_array with data: short name, long name, http address, free float
+- making csv file with gpw stocks with all data from companies_data_array
 
 Modified
+
+Fixed
+- problem with UTF-8 decoding letters from bankier.pl site
 
 Deleted
 
 TODO
 
 INFO
+###########################################################
+v.0.0.2
+Added
+- filtering companies info: short name, long name, http address
+- creating array companies_data_array which will collect filtered data
 ###########################################################
 v.0.0.1
 Added:
