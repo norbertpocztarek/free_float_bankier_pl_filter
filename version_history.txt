@@ -1,19 +1,25 @@
-v.0.0.3
+v.0.0.4
 Added
-- filling company_names_list with data: short name, long name, http address
-- filling companies_data_array with data: short name, long name, http address, free float
-- making csv file with gpw stocks with all data from companies_data_array
 
 Modified
 
 Fixed
-- problem with UTF-8 decoding letters from bankier.pl site
+
 
 Deleted
 
 TODO
 
 INFO
+###########################################################
+v.0.0.3
+Added
+- filling company_names_list with data: short name, long name, http address
+- filling companies_data_array with data: short name, long name, http address, free float
+- making csv file with gpw stocks with all data from companies_data_array
+
+Fixed
+- problem with UTF-8 decoding letters from bankier.pl site
 ###########################################################
 v.0.0.2
 Added
